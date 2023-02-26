@@ -1,0 +1,69 @@
+
+#nav-area{
+    background-color: orange;
+}
+#nav-area .icon a{
+    text-decoration: none;
+}
+#nav-area .icon a i{
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+#nav-area .icon sup{
+    top: -1em;
+    font-size: 15px;
+    color: white;
+}
+
+tbody .img{
+    width: 140px;
+    height: 120px;
+}
+tbody .img img{
+    width: 100%;
+    height: 100%;
+}
+#nav-area a{
+    color: white !important;
+}
+.alert i{
+    border: 3px solid #997404;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 20px;
+}
+.alert i a{
+    color: #997404;
+}
+
+.minus{
+    cursor: pointer;
+    border-radius: 1px solid black;
+}
+
+.plus{
+    cursor: pointer;
+    border-radius: 1px solid black;
+}
+tbody .minus .btn-minus{
+    width: 25px;
+    height: 30px;
+}
+tbody .plus .btn-plus{
+    width: 25px;
+    height: 30px;
+}
+.common{
+    gap: 5px;
+}
+.trush{
+    color: gray;
+    cursor: pointer;
+}
+.common-prize{
+    font-size: 25px;
+    display: inline-block;
+    padding: 10px;
+    background-color: #ffa6008c;
+}

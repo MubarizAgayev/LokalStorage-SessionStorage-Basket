@@ -1,0 +1,37 @@
+
+.card img{
+    height: 200px;
+}
+
+.card a i{
+    color: red;
+    padding: 15px;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    margin-left: 200px;
+}
+
+#nav-area{
+    background-color: orange;
+}
+#nav-area .icon a{
+    text-decoration: none;
+}
+#nav-area .icon a i{
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+#nav-area .icon sup{
+    top: -1em;
+    font-size: 15px;
+    color: white;
+}
+
+a{
+    color: white !important;
+}
+.add-basket i:hover{
+    box-shadow: 0 0 5px 5px olive;
+}
